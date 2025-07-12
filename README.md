@@ -94,5 +94,4 @@ The script needs a few tweaks to get it running yourself.
 ## Credits
 
 - **Development:** [Me myself and I](https://hexif.vercel.app)
-- **Youtube video used for testing:**  
-  [https://www.youtube.com/watch?v=pidrci81uTU](https://www.youtube.com/watch?v=pidrci81uTU) (13 mins in)
+- **Youtube video used for testing:**  [https://www.youtube.com/watch?v=pidrci81uTU](https://www.youtube.com/watch?v=pidrci81uTU) (13 mins in)

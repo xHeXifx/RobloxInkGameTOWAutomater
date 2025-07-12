@@ -2,7 +2,7 @@
 
 > Okay so this doesnt actually work but its still pretty cool to watch on the CV2 screen. 
 
-> Going through the code and testing, uncommenting the keypresses on lines 232 and 233 typically get the closest to the box. I found best way to test is to open the youtube video present in the credits and run the script, the script presses space when it believes it should and pauses the video. This will show you how close it gets.
+> Going through the code and testing, uncommenting the keypresses on lines 232 and 233 typically get the closest to the red and being correct. I found best way to test is to open the youtube video present in the credits and run the script, the script presses space when it believes it should and pauses the video. This will show you how close it gets.
 
 ---
 

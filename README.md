@@ -1,6 +1,8 @@
 # Roblox Ink Game - Tug Of War Automater
 
-> Okay so this doesnt actually work but its still pretty cool to watch on the CV2 screen.
+> Okay so this doesnt actually work but its still pretty cool to watch on the CV2 screen. 
+
+> Going through the code and testing, uncommenting the keypresses on lines 232 and 233 typically get the closest to the box. I found best way to test is to open the youtube video present in the credits and run the script, the script presses space when it believes it should and pauses the video. This will show you how close it gets.
 
 ---
 
@@ -78,7 +80,7 @@ The script needs a few tweaks to get it running yourself.
 
 2. Go into `main.py` and change the monitor variable on line 49:  
    ```python
-   monitor = sct.monitors[3]
+   monitor = sct.monitors[1]
    ```
    `3` represents the monitor number, just go through numbers (1 upwards) until you find whichever is the monitor that roblox is on.
 

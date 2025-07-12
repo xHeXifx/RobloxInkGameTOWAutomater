@@ -46,7 +46,7 @@ def main():
     keypress_enabled = True
 
     with mss.mss() as sct:
-        monitor = sct.monitors[3]
+        monitor = sct.monitors[1]
         win_title = "Screen Monitor"
         cv2.namedWindow(win_title)
         red_line_points = []
